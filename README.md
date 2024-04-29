@@ -7,6 +7,9 @@ Model-Based Automotive Systems Engineering
 ChalmersX ChM012x
 
 
+xx
+
+
     About road vehicle modelling in longitudinal, lateral and vertical direction
     To develop mathematical models of dynamical systems
     To linearize nonlinear continuous-time models
